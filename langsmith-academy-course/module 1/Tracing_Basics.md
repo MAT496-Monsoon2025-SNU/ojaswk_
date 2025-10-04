@@ -22,3 +22,8 @@ In a RAG application, retrieve documents and generate a response are the two maj
 @traceable is a decorator that enables automatic tracing of functions by logging inputs, outputs, errors, and metadata to create detailed run traces for observability and debugging in LLM applications.
 
 With tracing we can debug issues like unexpected outputs or failures by replaying with the exact sequence of operations.
+
+List of changes made:
+ 1. Replaced the OpenAI calls with Claude
+ 2. Changed the utils file to use HuggingFace Embeddings instead of OpenAI
+ 3. Changed the last cell of [tracing_basics.ipynb](resources/tracing_basics.ipynb) to better test and check the RAG application.

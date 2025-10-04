@@ -20,9 +20,12 @@ Answer:"""
 def get_vector_db_retriever():
     persist_path = os.path.join(tempfile.gettempdir(), "union.parquet")
     embd = HuggingFaceEmbeddings(
-        model_name="all-MiniLM-L6-v2",  # Fast, efficient, free model
-        model_kwargs={'device': 'cpu'},  # Use 'cuda' if you have GPU
-        encode_kwargs={'normalize_embeddings': True}
+        model_name="sentence-transformers/all-mpnet-base-v2"  # Better quality
+    )
+    embd = HuggingFaceEmbeddings(
+        model_name="all-MiniLM-L6-v2",
+        model_kwargs={'device': 'cpu'},
+        encode_kwargs={'normalize_embeddings': False}  # Try without normalization
     )
 
     # If vector store exists, then load it
