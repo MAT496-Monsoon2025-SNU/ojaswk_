@@ -12,3 +12,10 @@ It explains how each type is represented in a trace and why distinguishing them 
 Chain runs represent the overall workflow, while tool runs and LLM runs are the individual steps or calls within that workflow.
 Understanding the hierarchy of runs helps us pinpoint where errors or bottlenecks occur.
 We can filter traces by run type to focus on specific parts of the application.
+
+
+### Trace Screenshots:
+These are the things that were traced.
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+![img_8.png](img_8.png)

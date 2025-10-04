@@ -27,3 +27,8 @@ List of changes made:
  1. Replaced the OpenAI calls with Claude
  2. Changed the utils file to use HuggingFace Embeddings instead of OpenAI
  3. Changed the last cell of [tracing_basics.ipynb](resources/tracing_basics.ipynb) to better test and check the RAG application.
+
+### Screenshots of langsmith web interface:
+This is how we can see what we have traced
+![img_5.png](img_5.png)
+![img_3.png](img_3.png)
