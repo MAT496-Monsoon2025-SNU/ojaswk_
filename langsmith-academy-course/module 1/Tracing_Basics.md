@@ -1,4 +1,7 @@
 ## Tracing Concepts In LangSmith
+
+Python notebooks that I have used/modified for this lesson: [tracing_basics.ipynb](resources/tracing_basics.ipynb)
+
 ![img.png](img.png)
 
 Projects: Projects act as containers that group multiple traces together.
