@@ -16,4 +16,6 @@ Each unit of work or logic is a run.
 
 In a RAG application, retrieve documents and generate a response are the two major runs.
 
-@traceable is a decorator in the LangSmith Python SDK that enables automatic tracing of functions by logging inputs, outputs, errors, and metadata to create detailed run traces for observability and debugging in LLM applications.
+@traceable is a decorator that enables automatic tracing of functions by logging inputs, outputs, errors, and metadata to create detailed run traces for observability and debugging in LLM applications.
+
+With tracing we can debug issues like unexpected outputs or failures by replaying with the exact sequence of operations.
