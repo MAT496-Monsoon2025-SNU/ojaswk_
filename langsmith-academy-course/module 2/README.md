@@ -11,3 +11,9 @@
 
 ### Lesson 4: Analyzing Experiment Results
 [Fourth Video Summary](Analyzing_experiment_results.md)
+
+### Optional Lesson 5: Pairwise Experiments
+[Fifth Video Summary](Pairwise_experiments.md)
+
+### Optional Lesson 6: Summary Evaluators:
+[Sixth Video Summary](Summary_evaluators.md)
