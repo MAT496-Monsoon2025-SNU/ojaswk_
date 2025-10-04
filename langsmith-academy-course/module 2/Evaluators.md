@@ -10,3 +10,5 @@ Combining multiple evaluators gives you a more comprehensive view of model perfo
 
 ![img_5](img_5.png)
 ![img_6](img_6.png)
+Created custom evaluator:
+![img.png](img.png)
