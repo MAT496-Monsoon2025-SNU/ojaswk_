@@ -8,3 +8,6 @@
 
 ### Lesson 3: Alternative Methods for Tracing:
 [Third Video Summary](Alternative_methods.md)
+
+### Lesson 4: Conversational Threads:
+[Fourth Video Summary](Conversational_threads.md)
