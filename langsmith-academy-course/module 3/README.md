@@ -4,4 +4,7 @@
 [First Video Summary](Playground.md)
 
 ### Lesson 2: Prompt Hub
-[Second Video Sumamry](Prompthub.md)
+[Second Video Summary](Prompthub.md)
+
+### Lesson 3: Playground and Prompt Hub in Practice
+[Third Video Summary](Promptengineeringcycle.md)
