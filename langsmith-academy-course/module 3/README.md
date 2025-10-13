@@ -8,3 +8,6 @@
 
 ### Lesson 3: Playground and Prompt Hub in Practice
 [Third Video Summary](Promptengineeringcycle.md)
+
+### Lesson 4: Prompt Canvas
+[Fourth Video Summary](Promptcanvas.md)
